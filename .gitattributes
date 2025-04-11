@@ -1,2 +1,4 @@
 cleaned.csv filter=lfs diff=lfs merge=lfs -text
 Exports/ filter=lfs diff=lfs merge=lfs -text
+database.ipynb filter=lfs diff=lfs merge=lfs
+food_prices.sqlite filter=lfs diff=lfs merge=lfs
