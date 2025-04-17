@@ -23,5 +23,5 @@ Our dataset cross references and is published in the  World Food Programme (WFP)
 ## References for Data Sources
 * [Microdata Library](https://microdata.worldbank.org/index.php/catalog/4483/study-description)
 * [Dataset API](https://microdata.worldbank.org/index.php/catalog/4509/data-api)
-  
+* [Source on time period inflation](https://www.files.ethz.ch/isn/111316/food_inflation_3609.pdf)
 ## References
